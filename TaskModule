@@ -1,0 +1,9 @@
+local module = {
+	["Exp"] = { -- can be changed according on how much exp you want to give the player
+		["Play 10 minutes"] = 200,
+		["Play 15 minutes"] = 300,
+		["Play 30 minutes"] = 500
+	}
+}
+
+return module
